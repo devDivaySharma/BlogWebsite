@@ -120,3 +120,14 @@
 {"level":"info","message":"Mongo is  connected","timestamp":"2024-03-02T17:14:01.428Z"}
 {"level":"info","message":"connected to mysql","timestamp":"2024-03-02T17:15:20.309Z"}
 {"level":"info","message":"Mongo is  connected","timestamp":"2024-03-02T17:15:20.450Z"}
+{"level":"info","message":"connected to mysql","timestamp":"2024-03-02T17:29:27.757Z"}
+{"level":"info","message":"Mongo is  connected","timestamp":"2024-03-02T17:29:27.886Z"}
+{"level":"error","message":"Error get user User Not Found !","stack":"Error: User Not Found !\n    at UserService.<anonymous> (/home/divay/work/blog_application/blog_backend/src/services/userService.ts:22:23)\n    at Generator.next (<anonymous>)\n    at fulfilled (/home/divay/work/blog_application/blog_backend/src/services/userService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2024-03-02T17:30:40.945Z"}
+{"level":"info","message":"connected to mysql","timestamp":"2024-03-03T16:55:51.764Z"}
+{"level":"info","message":"Mongo is  connected","timestamp":"2024-03-03T16:55:51.898Z"}
+{"level":"info","message":"connected to mysql","timestamp":"2024-03-03T16:57:41.608Z"}
+{"level":"info","message":"Mongo is  connected","timestamp":"2024-03-03T16:57:41.713Z"}
+{"level":"info","message":"connected to mysql","timestamp":"2024-03-03T17:00:24.382Z"}
+{"level":"info","message":"Mongo is  connected","timestamp":"2024-03-03T17:00:24.542Z"}
+{"level":"info","message":"connected to mysql","timestamp":"2024-03-03T17:07:42.136Z"}
+{"level":"info","message":"Mongo is  connected","timestamp":"2024-03-03T17:07:42.247Z"}
